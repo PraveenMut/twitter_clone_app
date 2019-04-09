@@ -1,24 +1,6 @@
-# README
+# Ruby on Rails "My First" Project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Abstract
+This appplication is built with the amazing help from Rails Tutorials which can be found at http://www.railstutorial.org by Michael Hartl (http:///www.michaelhartl.com). Thanks! 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This application aims to a very barebones "Twitter clone" client.
